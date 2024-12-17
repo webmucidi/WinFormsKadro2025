@@ -1,0 +1,16 @@
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\bin\Debug\net8.0-windows\WinFormsAppSadeceDongu.exe
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\bin\Debug\net8.0-windows\WinFormsAppSadeceDongu.deps.json
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\bin\Debug\net8.0-windows\WinFormsAppSadeceDongu.runtimeconfig.json
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\bin\Debug\net8.0-windows\WinFormsAppSadeceDongu.dll
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\bin\Debug\net8.0-windows\WinFormsAppSadeceDongu.pdb
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.Form1.resources
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.csproj.GenerateResource.cache
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.AssemblyInfoInputs.cache
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.AssemblyInfo.cs
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.csproj.CoreCompileInputs.cache
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.dll
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\refint\WinFormsAppSadeceDongu.dll
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.pdb
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\WinFormsAppSadeceDongu.genruntimeconfig.cache
+C:\Users\Erhan\source\repos\WinFormsAppSadeceDongu\WinFormsAppSadeceDongu\obj\Debug\net8.0-windows\ref\WinFormsAppSadeceDongu.dll
